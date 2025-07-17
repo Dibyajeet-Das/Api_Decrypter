@@ -1,0 +1,7 @@
+curl --location 'http://localhost/insight_proxy_api_v1_0/decrypter.php' \
+--header 'Content-Type: text/plain' \
+--data 'U2FsdGVkX19E3s2aaZWYZB5NlpuezfoPPDCmgtVpoVOu7PYeYzYYuMoBnpi6dRTLpBzG8y/MHeo5S7uwo4F5HaEdFxDD5OvXLBjFcYF072NSWka6wh8zeee4+df1yjiC4K7HgELTQZPdvC4NC5A/Nfbg6vAyD+ZlqbCXJQ8DfSNi5l7225MF0iJ2+13GPmstCaVYpQbSWG+Ng9JtvbczWguG9R97UG1gfqkMU/sSaoY='
+
+
+raw - text
+U2FsdGVkX19E3s2aaZWYZB5NlpuezfoPPDCmgtVpoVOu7PYeYzYYuMoBnpi6dRTLpBzG8y/MHeo5S7uwo4F5HaEdFxDD5OvXLBjFcYF072NSWka6wh8zeee4+df1yjiC4K7HgELTQZPdvC4NC5A/Nfbg6vAyD+ZlqbCXJQ8DfSNi5l7225MF0iJ2+13GPmstCaVYpQbSWG+Ng9JtvbczWguG9R97UG1gfqkMU/sSaoY=
